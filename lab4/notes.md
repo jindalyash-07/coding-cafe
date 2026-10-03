@@ -23,3 +23,6 @@ Git reported that 4 files changed, with 70 insertions. The four files were `.git
 
 ## Question 8
 The first seven characters of my commit hash are `31a695d`. They are the shortened form of the commit's unique hash, which Git uses to identify that specific commit.
+
+##Question 9
+The four steps are edit, stage, commit, and repeat. I edit a file, use git add to stage the changes, use git commit to save them in the repository, and repeat the process whenever I make another change.
