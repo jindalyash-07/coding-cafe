@@ -24,5 +24,20 @@ Git reported that 4 files changed, with 70 insertions. The four files were `.git
 ## Question 8
 The first seven characters of my commit hash are `31a695d`. They are the shortened form of the commit's unique hash, which Git uses to identify that specific commit.
 
-##Question 9
+## Question 9
 The four steps are edit, stage, commit, and repeat. I edit a file, use git add to stage the changes, use git commit to save them in the repository, and repeat the process whenever I make another change.
+
+## Question 10
+README.md has a special name because GitHub automatically displays it as the main introduction to a repository. It is placed in the repository's top-level directory so visitors can see it immediately when they open the repository.
+
+## Question 11
+`gh auth login` authenticated my GitHub account and stored the credentials for Git to use. Because Git is authenticated, I do not need to enter my GitHub password every time I push.
+
+## Question 12
+The `README.md` file is showing on the front page of the GitHub repository. GitHub automatically renders README.md as the main introduction to a repository.
+
+## Question 13
+No, pushing did not change my local history. `git push` only copied my existing local commits to GitHub; the commits and their hashes remained the same.
+
+## Question 14
+A private repository exists on GitHub but its contents can only be accessed by people who have permission, such as invited collaborators. A repository that does not exist on GitHub has no online repository for anyone to access or collaborate on.
